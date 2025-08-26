@@ -26,6 +26,12 @@ I made this project to practice HTML by building a simple recipe website. It has
 Enable GitHub Pages in settings (main branch) to publish your site at:  
 `https://your-username.github.io/odin-recipes`
 
+# Credits
+
+The recipes and images featured here are not mine. All credits go to the original owners, listed below:
+
+- [All Recipes](https://www.allrecipes.com)
+
 # NOTE ::
 
 - Having fun is more important,
